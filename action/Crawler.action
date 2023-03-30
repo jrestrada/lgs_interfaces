@@ -1,0 +1,9 @@
+#Goal()
+lgs_interfaces/Crawl command
+---
+#Result()
+lgs_interfaces/Crawlerstate final
+bool success
+---
+#Feedback()
+lgs_interfaces/Crawlerstate current

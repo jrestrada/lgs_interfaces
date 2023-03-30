@@ -1,0 +1,8 @@
+#Goal()
+lgs_interfaces/Turn command
+---
+#Result()
+bool successfulturn
+---
+#Feedback()
+int32 turns
